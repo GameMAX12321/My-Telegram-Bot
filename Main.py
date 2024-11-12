@@ -4,7 +4,7 @@ import sqlite3
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("7703654756:AAGuuX6h4XhwNIbkzfoak4CSN_j1WMWKwS8")
+bot = telebot.TeleBot("Спалил, Боже(((")
 
 lidername = None
 money = None
