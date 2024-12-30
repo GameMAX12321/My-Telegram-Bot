@@ -4,7 +4,7 @@ import sqlite3
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("7736463980:AAGOWFtvkO6kPjkPMOTxGy5pfqQqB8x_hsg")
+bot = telebot.TeleBot("NO")
 
 # Global variable
 lidername = None
